@@ -1,0 +1,35 @@
+body {
+    background-color: #528EB9;
+    padding-top: 0px;
+  }
+  
+  .card {
+    margin-top: 40px;
+  }
+  
+  .card-header {
+    background-color: #007bff;
+    color: #000;
+    text-align: center;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  }
+
+  img {
+    max-width: 100%; 
+    height: auto;
+  }
